@@ -65,11 +65,6 @@ hidl_package_root {
 }
 
 hidl_package_root {
-    name: "vendor.qti.hardware.audiohalext",
-    path: "vendor/qcom/opensource/interfaces/audiohalext",
-}
-
-hidl_package_root {
     name: "vendor.qti.hardware.capabilityconfigstore",
     path: "vendor/qcom/opensource/interfaces/capabilityconfigstore",
 }
